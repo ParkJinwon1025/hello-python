@@ -1,6 +1,8 @@
+# hello-python
+
 # VSCode 파이썬 가상환경 빌드
 
-# 1. 프로젝트를 새롭게 생성
+## 1. 프로젝트를 새롭게 생성
 
 1. Ctrl + Shift + p 입력
 2. `>Python : Create Environment` 클릭
@@ -14,7 +16,7 @@
 pip freeze > requirement.txt
 ```
 
-# 2. 프로젝트 Git Clone
+## 2. 프로젝트 Git Clone
 
 1. 파이썬 3.13.9 설치
 
